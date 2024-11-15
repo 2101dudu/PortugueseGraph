@@ -22,7 +22,7 @@ To run this project, make sure you have Python 3.x installed. You will also need
 
 ### Steps
 ```bash
-git clone git@github.com:2101dudu/PortugalMunicipalitiesGraph.git
+git clone git@github.com:2101dudu/PortugueseGraph.git
 cd PortugalMunicipalitiesGraph
 ```
 
